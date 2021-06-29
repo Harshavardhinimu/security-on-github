@@ -10,7 +10,7 @@
     "streaming-json-stringify": "^4.1.0"
   },
   "devDependencies": {
-    "eslint": "^3.8.2"
+
   },
   "engines": {
     "npm": "2.15.1"
